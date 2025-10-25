@@ -1,6 +1,6 @@
 ## Excelr DataScience Assignments With Solution
 
-Basic Statistics-Level 1
+'#0969DA Basic Statistics-Level 1'
 
 Basic Statistics-Level 2
 
