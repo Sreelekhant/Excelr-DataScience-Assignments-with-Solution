@@ -1,7 +1,7 @@
 ## Excelr DataScience Assignments With Solution
 
--'#0969DA Basic Statistics-Level 1'
+<span style="color:red;">Basic statistics-Level 1</span>
 
--Basic Statistics-Level 2
+Basic Statistics-Level 2
 
--Basic of Python
+Basic of Python
