@@ -54,7 +54,7 @@ This repository includes all my **ExcelR Data Science Assignments** organized by
 ### 🔹 07 — Deployment
 1. [Streamlit_App.ipynb](07_Deployment/Streamlit_App.ipynb)
 
-👉 **Live App:** [Click here to open the Streamlit App 🚀]
+👉 **Live App:** [Click here to open the Streamlit App 🚀] (https://excelr-datascience-assignments-with-solution-pphuzzjqhu3ybg7eq.streamlit.app/)
 
 
 
