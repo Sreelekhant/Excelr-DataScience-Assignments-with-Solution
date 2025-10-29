@@ -1,4 +1,4 @@
-# 🧠 ExcelR Data Science Assignments with Solutions
+#  ExcelR Data Science Assignments with Solutions
 
 This repository includes all my **ExcelR Data Science Assignments** organized by topic and difficulty — from Python basics to advanced machine learning and NLP.
 
@@ -71,7 +71,7 @@ This repository includes all my **ExcelR Data Science Assignments** organized by
 
 ## 👩‍💻 Author
 **Sreelekha Reddy**  
-Passionate about Data Science, Machine Learning, and AI — building skills through structured assignments and projects.
+Passionate about Data Science, Machine Learning, and AI — building skills through structured assignments.
 
 ---
 ⭐ *If you like this repo, please give it a star on GitHub!*
